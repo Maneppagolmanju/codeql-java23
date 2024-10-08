@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.codeql-demo' is invalid and this project uses 'com.example.codeql_demo' instead.
+* The original package name 'com.example.codeql-java23' is invalid and this project uses 'com.example.codeql_demo' instead.
 
 # Getting Started
 
