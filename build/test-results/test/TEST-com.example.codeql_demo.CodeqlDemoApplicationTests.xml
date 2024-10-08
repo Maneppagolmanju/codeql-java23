@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.codeql_demo.CodeqlDemoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-08T08:09:33" hostname="MAC-L00C2724X7" time="0.476">
+<testsuite name="com.example.codeql_demo.CodeqlDemoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-08T08:13:50" hostname="MAC-L00C2724X7" time="0.374">
   <properties/>
-  <testcase name="contextLoads()" classname="com.example.codeql_demo.CodeqlDemoApplicationTests" time="0.476"/>
-  <system-out><![CDATA[10:09:33.090 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.codeql_demo.CodeqlDemoApplicationTests]: CodeqlDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-10:09:33.136 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.codeql_demo.CodeqlDemoApplication for test class com.example.codeql_demo.CodeqlDemoApplicationTests
+  <testcase name="contextLoads()" classname="com.example.codeql_demo.CodeqlDemoApplicationTests" time="0.374"/>
+  <system-out><![CDATA[10:13:49.745 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.codeql_demo.CodeqlDemoApplicationTests]: CodeqlDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:13:49.782 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.codeql_demo.CodeqlDemoApplication for test class com.example.codeql_demo.CodeqlDemoApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -14,9 +14,9 @@
 
  :: Spring Boot ::                (v3.3.4)
 
-2024-10-08T10:09:33.278+02:00  INFO 83289 --- [codeql-java23] [    Test worker] c.e.c.CodeqlDemoApplicationTests         : Starting CodeqlDemoApplicationTests using Java 23 with PID 83289 (started by d9580 in /Users/d9580/goorange/codeql-java23)
-2024-10-08T10:09:33.278+02:00  INFO 83289 --- [codeql-java23] [    Test worker] c.e.c.CodeqlDemoApplicationTests         : No active profile set, falling back to 1 default profile: "default"
-2024-10-08T10:09:33.467+02:00  INFO 83289 --- [codeql-java23] [    Test worker] c.e.c.CodeqlDemoApplicationTests         : Started CodeqlDemoApplicationTests in 0.275 seconds (process running for 0.707)
+2024-10-08T10:13:49.911+02:00  INFO 87475 --- [codeql-java23] [    Test worker] c.e.c.CodeqlDemoApplicationTests         : Starting CodeqlDemoApplicationTests using Java 23 with PID 87475 (started by d9580 in /Users/d9580/goorange/codeql-java23)
+2024-10-08T10:13:49.912+02:00  INFO 87475 --- [codeql-java23] [    Test worker] c.e.c.CodeqlDemoApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2024-10-08T10:13:50.086+02:00  INFO 87475 --- [codeql-java23] [    Test worker] c.e.c.CodeqlDemoApplicationTests         : Started CodeqlDemoApplicationTests in 0.256 seconds (process running for 0.667)
 ]]></system-out>
   <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/Users/d9580/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.19/154da3a65b4f4a909d3e5bdec55d1b2b4cbb6ce1/byte-buddy-agent-1.14.19.jar)
 WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
